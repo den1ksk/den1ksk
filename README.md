@@ -14,6 +14,6 @@
 </div>
 
 ###  About me/Обо мне:
-My major is Data science,Machine Learning/Моя специальность наука о данных, машинное обучение
-:space_invader: My name is Denis, I'm 20 years old/Меня зовут Денис, мне 20 лет.
+-:globe_with_meridians: My major is Data science,Machine Learning/Моя специальность наука о данных, машинное обучение
+-:space_invader: My name is Denis, I'm 20 years old/Меня зовут Денис, мне 20 лет.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1ksk)](https://github.com/anuraghazra/github-readme-stats)
