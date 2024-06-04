@@ -1,4 +1,5 @@
 <div id="badges" align ="center">
+  <img src="https://komarev.com/ghpvc/?den1ksk&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/denis-kolenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -6,7 +7,6 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?den1ksk&style=flat-square&color=blue" alt=""/>
 <!--
 **den1ksk/den1ksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
