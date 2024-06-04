@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?den1ksk&style=flat-square&color=blue" alt=""/>
 <!--
 **den1ksk/den1ksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
