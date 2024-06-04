@@ -13,7 +13,13 @@
   <h1> Profile in GITHUB </h1>
 </div>
 
-###  About me/Обо мне:
-- 🪐 My name is Denis, I'm 20 years old/Меня зовут Денис, мне 20 лет.
-- 🌐 My major is Data science,Machine Learning/Моя специальность наука о данных, машинное обучение
+###  About me
+- 🪐 My name is Denis, I'm 20 years old.
+- 🌐 My major is Data science, Machine Learning.
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1ksk)](https://github.com/anuraghazra/github-readme-stats)
