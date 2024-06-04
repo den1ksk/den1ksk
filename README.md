@@ -7,17 +7,13 @@
   </a>
 </div>
 <div id="viewprof" align="center" > 
-  <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=youngdeeath&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="heythere" align="center" >
   <h1> Profile in GITHUB </h1>
 </div>
-<!--
-**den1ksk/den1ksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
+###  About me/Обо мне:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
