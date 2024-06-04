@@ -16,7 +16,7 @@
 ### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
-
+- 📧 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:deniskolenko04@gmail.com)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
