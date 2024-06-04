@@ -7,7 +7,7 @@
   </a>
 </div>
 <div id="viewprof" align="center" > 
-  <img src="https://komarev.com/ghpvc/?den1ksk&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?den1ksk&style=flat-square&color=red" alt=""/>
 </div>
 <div id="heythere" align="center" >
   <h1> Profile in GITHUB </h1>
