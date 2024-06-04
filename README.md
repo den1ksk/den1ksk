@@ -13,7 +13,7 @@
   <h1> Profile in GITHUB </h1>
 </div>
 
-###  About me
+### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
 
