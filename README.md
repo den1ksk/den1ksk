@@ -70,5 +70,6 @@
 ## 🎓 Education
 - Plekhanov Russian College of Economics (2022 - 2025)
   - Major: Information Systems and Programming
+  
 Courses:
 -HarvardX | Introduction to Data Science with Python • CS109x
