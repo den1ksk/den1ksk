@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome" alt="Typing SVG">
-  </a>
-</div>
-
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/denis-kolenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,13 +8,13 @@
 </div>
 <div id="viewprof" align="center" > 
   <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
-    </a>
-    <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome" alt="Typing SVG">
-        </a>
 </div>
 
-
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+information" alt="Typing SVG">
+  </a>
+</div>
 ### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
