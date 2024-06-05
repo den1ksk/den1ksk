@@ -42,14 +42,17 @@
 ---
 
 ## :star: My stats
+
+#### My streak
 <div id="badges">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
+#### My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1ksk)](https://github.com/anuraghazra/github-readme-stats)
-
+#### My trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=den1ksk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
