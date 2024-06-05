@@ -72,4 +72,12 @@
   - Major: Information Systems and Programming
   
 Courses:
--HarvardX | Introduction to Data Science with Python • CS109x
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+- HarvardX | Introduction to Data Science with Python • CS109x
+- Soon
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+- Soon
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- The Complete Guide to Python 3: From Beginner to Expert
+- SQL Beginner's Course: From Beginner to Expert (+Practice)
+- Soon
