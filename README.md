@@ -17,8 +17,10 @@
 </div>
 
 ### 💻 About me:
-- 🪐 My name is Denis, I'm 20 years old.
-- 🌐 My major is Data science, Machine Learning.
+- 🪐 Name: Denis
+- 🎓 Major: Data science/Machine Learning
+- 🌍 Languages: Russian, English, Spanish
+- 🎨 Hobbies: Programming, physics, artificial intelligence, reading books, history
 ---
 
 
