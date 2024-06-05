@@ -70,14 +70,13 @@
 ---
 ## 🎓 Education
 
----
-### 📘 Current Education:
+####📘 Current Education:
 - **Plekhanov Russian College of Economics (2022 - 2025)**
   - Major: Information Systems and Programming
 
 ---
 
-### 📚 Courses:
+#### 📚 Courses:
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 - **HarvardX | Introduction to Data Science with Python • CS109x**
