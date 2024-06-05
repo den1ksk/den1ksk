@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/denis-kolenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,10 +15,13 @@
   <h1> Profile in GITHUB </h1>
 </div>
 
+
 ### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
 ---
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
