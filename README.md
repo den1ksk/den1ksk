@@ -37,4 +37,5 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1ksk)](https://github.com/anuraghazra/github-readme-stats)
+### ⭐ My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=dark&background=000000)](https://git.io/streak-stats)
