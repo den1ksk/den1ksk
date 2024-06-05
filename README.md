@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcomer+to+my+profile" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome" alt="Typing SVG">
   </a>
 </div>
 
@@ -14,9 +14,6 @@
 </div>
 <div id="viewprof" align="center" > 
   <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
-</div>
-<div id="heythere" align="center" >  
-  <h1> Profile in GITHUB </h1>
 </div>
 
 
