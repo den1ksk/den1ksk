@@ -48,13 +48,19 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=den1ksk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-## Connect with Me
+## 🌐 Connect with Me
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/denis-kolenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/den1ksk">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="mailto:deniskolenko04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/den1ksk">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
