@@ -57,7 +57,7 @@
 ### LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=den1ksk)](https://github.com/den1ksk/github-readme)
 ### 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=den1ksk&layout=compact&theme=dark)](https://stackoverflow.com/users/den1ksk/omid-nikrah)
+![snake gif](https://github.com/den1ksk/den1ksk/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🌐 Connect with Me
