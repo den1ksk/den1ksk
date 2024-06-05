@@ -16,7 +16,6 @@
 ### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
-- 📧 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:deniskolenko04@gmail.com)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -37,4 +36,6 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 ### :star: About me:
+<div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</div>
