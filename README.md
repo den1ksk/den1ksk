@@ -1,3 +1,6 @@
+<div id="viewprof" align="center" > 
+  <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## 💻 About me:
 - 🪐 Name: Denis
@@ -36,7 +39,7 @@
 
 ---
 
-### :star: My stats:
+## :star: My stats:
 <div id="badges">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak" />
@@ -64,7 +67,6 @@
   </a>
 </div>
 
-
-<div id="viewprof" align="center" > 
-  <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
-</div>
+## 🎓 Education:
+-Plekhanov Russian College of Economics (2022 - 2025)
+  --Major: Information Systems and Programming
