@@ -37,8 +37,8 @@
 </div>
 
 ### :star: About me:
-<div id="badges" align ="center">
+<div id="badges">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
