@@ -41,9 +41,10 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 
-### :star: About me:
+### :star: My stats:
 <div id="badges">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=ads-juicy-fresh&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1ksk)](https://github.com/anuraghazra/github-readme-stats
