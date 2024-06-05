@@ -10,8 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-### 💻 About me:
+## 💻 About me:
 - 🪐 Name: Denis
 - 🎓 Major: Data science/Machine Learning
 - 🌍 Languages: Russian, English, Spanish
@@ -19,11 +18,11 @@
 ---
 
 
-### ⚡ Technologies
+## ⚡ Technologies
 ---
-# Language:
+### Language:
 
-# Libraries & Framework:
+### Libraries & Framework:
 
 
 <div>
