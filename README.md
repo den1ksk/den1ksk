@@ -10,21 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+information:" alt="Typing SVG">
-  </a>
-</div>
-
 ### 💻 About me:
 - 🪐 Name: Denis
 - 🎓 Major: Data science/Machine Learning
 - 🌍 Languages: Russian, English, Spanish
-- 🎨 Hobbies: Programming, physics, artificial intelligence, reading books, history
+- 🎨 Hobbies: Programming, physics, artificial intelligence, reading, history, tennis
 ---
 
 
-### :hammer_and_wrench: Languages and Tools :
+### ⚡ Technologies
+---
+
+Language:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
