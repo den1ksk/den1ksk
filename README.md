@@ -16,7 +16,6 @@
   </a>
 </div>
 
-
 ### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
