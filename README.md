@@ -36,6 +36,8 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 </div>
 ### :star: About me:
-<div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+<div id="badges" align ="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=den1ksk&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
