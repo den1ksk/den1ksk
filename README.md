@@ -53,7 +53,7 @@
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den1ksk)](https://github.com/anuraghazra/github-readme-stats)
 ### Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=den1ksk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=den1ksk&theme=onedar)](https://github.com/ryo-ma/github-profile-trophy)
 ### LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=den1ksk)](https://github.com/den1ksk/github-readme)
 
