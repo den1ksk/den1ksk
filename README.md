@@ -56,6 +56,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=den1ksk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=den1ksk)](https://github.com/den1ksk/github-readme)
+### 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=den1ksk&layout=compact&theme=dark)](https://stackoverflow.com/users/den1ksk/omid-nikrah)
 
 ---
 ## 🌐 Connect with Me
