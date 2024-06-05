@@ -15,6 +15,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+information" alt="Typing SVG">
   </a>
 </div>
+
+
 ### 💻 About me:
 - 🪐 My name is Denis, I'm 20 years old.
 - 🌐 My major is Data science, Machine Learning.
