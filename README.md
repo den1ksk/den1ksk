@@ -3,10 +3,10 @@
 </div>
 
 ## 💻 About me
-- 🪐 Name: Denis
-- 🎓 Major: Data science/Machine Learning
-- 🌍 Languages: Russian, English, Spanish
-- 🎨 Hobbies: Programming, physics, artificial intelligence, reading, history, tennis
+- 🪐 **Name: Denis**
+- 🎓 **Major: Data science/Machine Learning**
+- 🌍 **Languages: Russian, English, Spanish**
+- 🎨 **Hobbies: Programming, physics, artificial intelligence, reading, history, tennis**
 ---
 
 
@@ -80,7 +80,7 @@
 ### 📚 Courses:
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-- **HarvardX | Introduction to Data Science with Python • CS109x
+- **HarvardX | Introduction to Data Science with Python • CS109x**
 - Soon
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -90,3 +90,5 @@
 - **The Complete Guide to Python 3: From Beginner to Expert**
 - **SQL Beginner's Course: From Beginner to Expert (+Practice)**
 - Soon
+
+---
