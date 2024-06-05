@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_user_name: den1ksk
-          outputs: dist/snake.svg
+          outputs: ./snake.svg
 
       - name: Upload Snake
         uses: actions/upload-artifact@v2
         with:
           name: snake
-          path: dist/snake.svg
+          path: snake.svg
