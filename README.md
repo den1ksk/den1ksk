@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.credly.com/users/denis-kolenko/badges">
-    <img src="https://images.credly.com/size/340x340/images/70e7b6a0-0e4e-4b4e-8b8e-0b5e3b1d3d7b/Credly_Badge.png" alt="Credly Badge"/>
+    <img src="https://img.shields.io/badge/-Credly-FF6B00?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge"/>
   </a>
 </div>
 
