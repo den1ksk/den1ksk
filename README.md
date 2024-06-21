@@ -87,7 +87,6 @@
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 - **HarvardX | Introduction to Data Science with Python • CS109x**
-- Soon
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - Soon
