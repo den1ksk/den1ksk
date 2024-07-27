@@ -78,8 +78,6 @@
 - **Plekhanov Russian College of Economics (2022 - 2025)**
   - Major: Information Systems and Programming
 
----
-
 #### 📚 Courses:
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
