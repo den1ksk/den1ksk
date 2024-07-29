@@ -47,9 +47,6 @@
   </a>
 </div>
 
-### Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=den1ksk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 ## 🌐 Connect with Me
 <div id="badges" align="center">
