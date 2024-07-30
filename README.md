@@ -65,4 +65,7 @@
   <a href="https://www.credly.com/users/denis-kolenko/badges">
     <img src="https://img.shields.io/badge/-Credly-FF6B00?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge"/>
   </a>
+  <a href="https://www.kaggle.com/deniskolenko">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
