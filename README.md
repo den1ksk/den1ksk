@@ -8,7 +8,6 @@
 - 🌍 **Languages: Russian, English, Spanish**
 - 🎨 **Hobbies: Programming, physics, artificial intelligence, reading, history, tennis**
 - 🎯 **Goals: Become a machine learning expert**
-- 🏆 **Experience: More than 3 years of IT experience**
 ---
 
 
