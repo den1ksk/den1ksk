@@ -59,7 +59,7 @@
   <a href="https://x.com/den1ksk">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="mailto:deniskolenko04@gmail.com">
+  <a href="mailto:deniskolenko.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/den1ksk">
