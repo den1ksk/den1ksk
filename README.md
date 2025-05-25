@@ -2,12 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=den1ksk&style=flat-square&color=blue" alt=""/>
 </div>
 
-## 💻 About me
-🪐 **Name: Denis**
-🎓 **Major: Machine Learning**
-🌍 **Languages: Russian, English, Spanish**
-🎨 **Hobbies: Programming, physics, artificial intelligence, reading, history, tennis**
-🎯 **Goals: Become a machine learning expert**
+## About me
+- **Name: Denis**
+- **Major: Machine Learning**
+- **Languages: Russian, English, Spanish**
+- **Hobbies: Programming, physics, artificial intelligence, reading, history, tennis**
+- **Goals: Become a machine learning expert**
 ---
 
 
@@ -51,7 +51,7 @@
 </div>
 
 ---
-## 🌐 Connect with Me
+## Connect with Me
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/denis-kolenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
