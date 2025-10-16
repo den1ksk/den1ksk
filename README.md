@@ -6,8 +6,6 @@
 - **Name: Denis**
 - **Major: Machine Learning**
 - **Languages: Russian, English, Spanish**
-- **Hobbies: Programming, physics, artificial intelligence, reading, history, tennis**
-- **Goals: Become a machine learning expert**
 ---
 
 
