@@ -26,5 +26,4 @@ I design, build, and ship production‑grade ML systems end‑to‑end: from dat
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/denis-kolenko/
 - X (Twitter): https://x.com/den1ksk
-- Email: mailto:deniskolenko.work@gmail.com
-- Telegram: https://t.me/den1ksk
+- Email: deniskolenko.work@gmail.com
