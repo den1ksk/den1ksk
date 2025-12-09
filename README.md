@@ -1,6 +1,6 @@
 ## Denis Kolenko — Machine Learning Engineer
 
-I design, build, and ship production‑grade ML systems end‑to‑end: from data and modeling to APIs, deployment, and monitoring. I focus on measurable business impact, reliability, and clear communication.
+I build, and ship production‑grade ML systems end‑to‑end: from data and modeling to APIs, deployment, and monitoring. I focus on measurable business impact, reliability, and clear communication.
 
 ### Core strengths
 - End‑to‑end ML delivery: data pipelines → modeling → evaluation → serving
@@ -12,12 +12,11 @@ I design, build, and ship production‑grade ML systems end‑to‑end: from dat
 ### Skills and tools
 - Languages: Python, C++, R
 - ML/DL: PyTorch, TensorFlow, Keras, scikit‑learn, NumPy, SciPy, Pandas, Matplotlib
-- Data & Storage: PostgreSQL, MariaDB
-- Serving & Backend: FastAPI, REST, batch/offline inference
-- Environments: Jupyter, PyCharm, VS Code, RStudio
-
+- Data & Storage: PostgreSQL, MariaDB, ChromeDB.
+- Serving & Backend: FastAPI, REST.
+- Environments: Jupyter, PyCharm, VS Code, Cursor
 ### Languages
-- Russian (native), English, Spanish
+- English, Spanish, Russian
 
 ### Certifications & profiles
 - Credly: https://www.credly.com/users/denis-kolenko/badges
