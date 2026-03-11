@@ -1,28 +1,37 @@
-## Denis Kolenko — Machine Learning Engineer
+## Denis Kolenko — ML / AI Engineer
 
-I build, and ship production‑grade ML systems end‑to‑end: from data and modeling to APIs, deployment, and monitoring. I focus on measurable business impact, reliability, and clear communication.
+I build production AI systems — from multi-agent architectures and LLM fine-tuning to classical ML pipelines. Full lifecycle: research, training, deployment, monitoring.
 
-### Core strengths
-- End‑to‑end ML delivery: data pipelines → modeling → evaluation → serving
-- Practical deep learning (PyTorch, TensorFlow) and classical ML (scikit‑learn)
-- API design and model serving (FastAPI), performance and observability
-- Data storage and processing with SQL and Python ecosystems
-- Clean code, reproducibility, and experiment discipline
+### What I ship
 
-### Skills and tools
-- Languages: Python, C++, R
-- ML/DL: PyTorch, TensorFlow, Keras, scikit‑learn, NumPy, SciPy, Pandas, Matplotlib
-- Data & Storage: PostgreSQL, MariaDB, ChromeDB.
-- Serving & Backend: FastAPI, REST.
-- Environments: Jupyter, PyCharm, VS Code, Cursor
-### Languages
-- English, Spanish, Russian
+- **Multi-Agent Systems** — Built a legal analysis system automating contract review: **30 min → 2 min**, 95% recall on critical risk clauses
+- **LLM Fine-Tuning** — Created [TypeSafe-7B](https://github.com/den1ksk/TypeSafe-7B), a specialized LLM for reliable function calling via CoT fine-tuning. **100% JSON compliance** on 2,000+ complex nested schemas
+- **Production AI Pipelines** — Engineered a GenAI marketing system for a major enterprise: serves ~1,000 users, **+36% client engagement**
+- **Agentic Workflows** — Designed a customer-support agent serving 3,000+ monthly users, reducing operator workload by 2x
+- **Predictive ML** — XGBoost models for equipment failure prediction (+23% reliability) and customer behavior forecasting (+18% retention)
 
-### Certifications & profiles
-- Credly: https://www.credly.com/users/denis-kolenko/badges
-- Kaggle: https://www.kaggle.com/deniskolenko
+### Tech stack
 
-### Contact
-- LinkedIn: https://www.linkedin.com/in/denis-kolenko/
-- X (Twitter): https://x.com/den1ksk
-- Email: deniskolenko.work@gmail.com
+**Core:** Python, PyTorch, Transformers, LangChain, LangGraph, FastAPI
+**LLM/NLP:** Unsloth, spaCy, Elasticsearch, ChromaDB, Prompt Engineering
+**ML:** Scikit-Learn, XGBoost, CatBoost, PySpark, NumPy, Pandas
+**Infra:** Docker, Airflow, MLflow, RabbitMQ, AWS, PostgreSQL
+**Languages:** C++, SQL, R
+
+### Highlights
+
+**[TypeSafe-7B](https://github.com/den1ksk/TypeSafe-7B)** — Open-source LLM for reliable function calling. CoT fine-tuning, 100% JSON compliance, zero syntax errors in agentic workflows.
+
+**Google DeepMind Hackathon** — Built "AI-Psychologist" with Gemini 3 Pro: real-time CBT reasoning + voice + vision analysis. Fully functional MVP in under 6 hours.
+
+**Kaggle** — 10+ competitions, top 3% finishes. Fine-tuned Qwen-2.5 for mathematical misconception detection.
+
+**Education** — IBM RAG & Agentic AI Certificate | DeepLearning.AI Deep Learning Specialization | Stanford ML Specialization
+
+### Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kolenko/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/den1ksk)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/deniskolenko)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/denis-kolenko/badges)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deniskolenko.work@gmail.com)
