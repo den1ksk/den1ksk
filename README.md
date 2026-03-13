@@ -5,7 +5,6 @@ I build production AI systems — from multi-agent architectures and LLM fine-tu
 ### What I ship
 
 - **Multi-Agent Systems** — Built a legal analysis system automating contract review: **30 min → 2 min**, 95% recall on critical risk clauses
-- **LLM Fine-Tuning** — Created [TypeSafe-7B](https://github.com/den1ksk/TypeSafe-7B), a specialized LLM for reliable function calling via CoT fine-tuning. **100% JSON compliance** on 2,000+ complex nested schemas
 - **Production AI Pipelines** — Engineered a GenAI marketing system for a major enterprise: serves ~1,000 users, **+36% client engagement**
 - **Agentic Workflows** — Designed a customer-support agent serving 3,000+ monthly users, reducing operator workload by 2x
 - **Predictive ML** — XGBoost models for equipment failure prediction (+23% reliability) and customer behavior forecasting (+18% retention)
@@ -19,8 +18,6 @@ I build production AI systems — from multi-agent architectures and LLM fine-tu
 **Languages:** C++, SQL, R
 
 ### Highlights
-
-**[TypeSafe-7B](https://github.com/den1ksk/TypeSafe-7B)** — Open-source LLM for reliable function calling. CoT fine-tuning, 100% JSON compliance, zero syntax errors in agentic workflows.
 
 **Google DeepMind Hackathon** — Built "AI-Psychologist" with Gemini 3 Pro: real-time CBT reasoning + voice + vision analysis. Fully functional MVP in under 6 hours.
 
