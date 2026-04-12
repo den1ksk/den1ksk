@@ -17,14 +17,6 @@ I build production AI systems — from multi-agent architectures and LLM fine-tu
 **Infra:** Docker, Airflow, MLflow, RabbitMQ, AWS, PostgreSQL
 **Languages:** C++, SQL, R
 
-### Highlights
-
-**Google DeepMind Hackathon** — Built "AI-Psychologist" with Gemini 3 Pro: real-time CBT reasoning + voice + vision analysis. Fully functional MVP in under 6 hours.
-
-**Kaggle** — 10+ competitions, top 3% finishes. Fine-tuned Qwen-2.5 for mathematical misconception detection.
-
-**Education** — IBM RAG & Agentic AI Certificate | DeepLearning.AI Deep Learning Specialization | Stanford ML Specialization
-
 ### Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kolenko/)
