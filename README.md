@@ -2,13 +2,6 @@
 
 I build production AI systems — from multi-agent architectures and LLM fine-tuning to classical ML pipelines. Full lifecycle: research, training, deployment, monitoring.
 
-### What I ship
-
-- **Multi-Agent Systems** — Built a legal analysis system automating contract review: **30 min → 2 min**, 95% recall on critical risk clauses
-- **Production AI Pipelines** — Engineered a GenAI marketing system for a major enterprise: serves ~1,000 users, **+36% client engagement**
-- **Agentic Workflows** — Designed a customer-support agent serving 3,000+ monthly users, reducing operator workload by 2x
-- **Predictive ML** — XGBoost models for equipment failure prediction (+23% reliability) and customer behavior forecasting (+18% retention)
-
 ### Tech stack
 
 **Core:** Python, PyTorch, Transformers, LangChain, LangGraph, FastAPI
