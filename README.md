@@ -4,11 +4,7 @@ I build production AI systems — from multi-agent architectures and LLM fine-tu
 
 ### Tech stack
 
-**Core:** Python, PyTorch, Transformers, LangChain, LangGraph, FastAPI
-**LLM/NLP:** Unsloth, spaCy, Elasticsearch, ChromaDB, Prompt Engineering
-**ML:** Scikit-Learn, XGBoost, CatBoost, PySpark, NumPy, Pandas
-**Infra:** Docker, Airflow, MLflow, RabbitMQ, AWS, PostgreSQL
-**Languages:** C++, SQL, R
+Python, PyTorch, Transformers, LangChain, LangGraph, FastAPI, Unsloth, spaCy, Elasticsearch, ChromaDB, Prompt Engineering, Scikit-Learn, XGBoost, CatBoost, PySpark, NumPy, Pandas, Docker, Airflow, MLflow, RabbitMQ, AWS, PostgreSQL, C++, SQL, R
 
 ### Links
 
